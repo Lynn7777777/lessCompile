@@ -12,7 +12,7 @@ $ npm install -g lessCompile
 > pages 为开发根目录
 
 ```
-$ wxss ./pages
+$ lessCompile ./pages
 ```
 
 ### 如果觉得不错，请动动您的小拇指，star一下
