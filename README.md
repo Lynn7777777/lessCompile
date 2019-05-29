@@ -1,6 +1,6 @@
 # lessCompile
 
-# 将less编译成wxss
+# 将less编译成css
 
 ## 安装
 
