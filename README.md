@@ -5,7 +5,7 @@
 ## 安装
 
 ```console
-$ npm install -g lessCompile
+$ npm install -g lynn_lesscompile
 ```
 ## 使用
 

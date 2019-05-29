@@ -1,11 +1,14 @@
 {
-  "name": "lessCompile",
-  "version": "1.0.0",
-  "description": "compile less into css",
-  "bin": {
-    "wxss": "bin/lessCompile.js"
-  },
+  "name": "lynn_lesscompile",
+  "version": "1.0.5",
+  "description": "# 将less编译成css",
   "main": "index.js",
+  "bin": {
+    "lessCompile": "bin/lessCompile.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,15 +16,16 @@
     "type": "git",
     "url": "git+https://github.com/Lynn7777777/lessCompile.git"
   },
-  "keywords": [
-    "less",
-    "css"
-  ],
   "author": "Lynn",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Lynn7777777/lessCompile/issues"
   },
   "homepage": "https://github.com/Lynn7777777/lessCompile#readme",
+  "keywords": [
+    "less",
+    "css"
+  ],
   "dependencies": {
     "chalk": "^2.4.1",
     "chokidar": "^2.0.4",
